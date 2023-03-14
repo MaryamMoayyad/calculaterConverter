@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space16">16dp</dimen>
+    <dimen name="textSize62">56sp</dimen>
+    <dimen name="smallSize">16sp</dimen>
+    <dimen name="smallSpace">8dp</dimen>
+    <dimen name="fortySpace">40dp</dimen>
+    <dimen name="space20">20dp</dimen>
+</resources>
